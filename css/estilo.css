@@ -1,0 +1,36 @@
+head{
+    background-color: green;
+    text-align: center;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+#titulo_2nd{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card{
+    background-color: rgb(167, 236, 167);
+    border-style: solid;
+    border-color: darkgreen;
+    border-width: 5px;
+    text-align: left;    
+}
+
+.txt_bottom{
+    color: darkolivegreen;
+    text-decoration-color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.carousel-inner{
+    margin: auto;
+}
+
+#bottom_text{
+    margin: auto;
+    padding: 1%;    
+}
